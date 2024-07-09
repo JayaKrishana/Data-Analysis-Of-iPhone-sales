@@ -1,2 +1,2 @@
 # Data-Analysis-Of-iPhone-sales
-This project focuses on the in-depth analysis of iPhone sales data using Python.
+This project focuses on the in-depth analysis of iPhone sales data using Python. The goal is to identify key factors influencing iPhone sales and present the findings through a user-friendly interface. This project demonstrates the development and implementation of various data analysis and statistical modeling techniques to derive actionable insights from the data.
